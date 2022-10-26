@@ -1,21 +1,22 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
-
+ls
 # 2 - What is the command for changing directories?
-
+cd
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-
+cd ..
 # 4 - What is a quick way to create a new folder?
-
+mkdir "text"
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+     If there is nothing in that file it will display the folder that you are in. If there are files in the folder, ls will display all of the files. 
 # 6 - What is a quick way to create a new file?
-
+touch new file 
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+Show what version of git is installed in your Macbook.  Version need 2.33.0. Mine is 2.37.00
 # 8 - Why would you run the command 'git status'?
-
+Shows you the change(s) in the VSCode compared to the original one.  How many insertion and deletion. 
 # 9 - What does the command 'git add .' do?
-
+Add the changes to VSCode.  It the terminal's way of saving. 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push origin main

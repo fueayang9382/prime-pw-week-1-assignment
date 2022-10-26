@@ -22,22 +22,40 @@ h1 {
     font-display: block;
     margin-left: 425px;
     margin-right: 10px;
-    
+
 }
+
 .grid-container{
     display: grid;
 }
+
+
 .grid-item1{ border: solid
     text-align: center;
-
+font: 15px Arial, Sans-Serif
+font-style: italic 
 }
+.header {
+    background-color: black;
+}
+
+h1 {
+    color: #1a53ff;
+}
+
 
 .grid-item2{ border: solid;
     text-align: center;
-
+    font: 15px Arial, Sans-Serif
+    font-style: italic
 }
+
+
 
 .grid-item3{ border: solid;
     text-align: center;
-
+    font: 15px Arial, Sans-Serif
+    font-style: italic
+     background-color: black;
 }
+
