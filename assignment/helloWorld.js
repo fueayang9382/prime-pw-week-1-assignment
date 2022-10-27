@@ -1,0 +1,1 @@
+console.log('Looks like this is the end of week1 assignment1'); 
